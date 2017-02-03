@@ -19,7 +19,7 @@ public class JavaApplication7 {
         
         
         
-        System.out.println("esto esd para gifhub");
+        System.out.println("esto es para gifhub");
         
         
         
